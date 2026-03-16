@@ -14,6 +14,16 @@ Estudiante de Ciencias de la Computación, cursando el útlimo semestre de la ca
 
 ## 📌 Proyectos Destacados
 
+### [Integración CRM-ERP para analítica comercial](https://github.com/cuzco-t/dw_crm_erp_integration)
+Proyecto de ingeniería de datos que consolida información de clientes, productos y ventas provenientes de sistemas CRM y ERP en un data warehouse por capas (Bronce → Plata → Oro). Se aplicaron procesos de estandarización, limpieza y controles de calidad para garantizar datos confiables y consistentes. El resultado es un modelo dimensional listo para dashboards y reportes.
+
+**🔧 Tecnologías:** PostgreSQL, SQL, modelado dimensional, ETL
+**📊 Resultados:** 
+- Integración de 6 fuentes de datos en un único repositorio analítico.
+- Consistencia de datos: normalización de catálogos y eliminación de duplicados.
+- Visibilidad unificada de ventas por cliente, producto y tiempo para equipos de BI.
+- Base confiable para KPIs comerciales y toma de decisiones ejecutivas.
+
 ### [TechStore: Adopción de Chatbot con IA y Comportamiento de Compra](https://github.com/cuzco-t/tech_store)
 Análisis estadístico completo para evaluar el impacto de un chatbot en las ventas de un e-commerce. Se aplicaron pruebas de hipótesis (t-test, chi-cuadrado, ANOVA) y se construyó un modelo de regresión lineal múltiple para predecir el monto de compra.  
 
